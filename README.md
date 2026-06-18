@@ -61,9 +61,7 @@ The objective is to transform raw transactional data into actionable business in
 
 ---
 
-## 📊 Dashboard Preview
-
-Add your Power BI dashboard images below:
+## Dashboard Preview
 
 ### Executive Dashboard
 
